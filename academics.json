@@ -1,0 +1,56 @@
+{
+  "cards": [
+    {
+      "icon": "pe-7s-note2",
+      "title": "Kurikulum",
+      "placeholder": "Coming Soon"
+    },
+    {
+      "icon": "pe-7s-study",
+      "title": "Konsentrasi",
+      "intro": "Empat bidang keilmuan yang membangun fondasi mahasiswa Sarjana Kedokteran Gigi.",
+      "entries": [
+        {
+          "image": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=800&q=80",
+          "alt": "Ilmu Dasar Kedokteran Umum",
+          "title": "Ilmu Dasar Kedokteran Umum (Basic Medical Science)",
+          "text": "Membangun pemahaman anatomi, fisiologi, biokimia, dan patologi tubuh manusia sebagai dasar berpikir klinis sebelum mahasiswa masuk ke ranah kedokteran gigi."
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1629909613654-28e377c37b09?auto=format&fit=crop&w=800&q=80",
+          "alt": "Ilmu Kedokteran Gigi Dasar",
+          "title": "Ilmu Kedokteran Gigi Dasar (Basic Dental Science)",
+          "text": "Mendalami struktur gigi dan jaringan mulut, material kedokteran gigi, serta biologi oral yang menjadi landasan setiap tindakan perawatan gigi dan mulut."
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&w=800&q=80",
+          "alt": "Ilmu Kedokteran Gigi Klinik",
+          "title": "Ilmu Kedokteran Gigi Klinik (Dental Clinical Appliances)",
+          "text": "Melatih keterampilan diagnosis dan perawatan melalui simulasi laboratorium dan praktik terbimbing dengan peralatan klinik yang sesuai standar profesi."
+        },
+        {
+          "image": "https://images.unsplash.com/photo-1606811841689-23dfddce3e95?auto=format&fit=crop&w=800&q=80",
+          "alt": "Ilmu Kesehatan Gigi Masyarakat & Wirausaha",
+          "title": "Ilmu Kesehatan Gigi Masyarakat & Wirausaha (Dental Health Education & Sociotechnopreneurship)",
+          "text": "Mengembangkan kemampuan promosi kesehatan gigi di masyarakat serta jiwa sociotechnopreneurship untuk menjawab kebutuhan layanan kesehatan gigi yang lebih luas."
+        }
+      ]
+    },
+    {
+      "icon": "pe-7s-portfolio",
+      "title": "Karir",
+      "items": [
+        "Dokter Gigi Muda",
+        "Asisten Peneliti di Bidang Kedokteran Gigi dan Kesehatan Gigi–Mulut",
+        "Asisten Dosen / Tenaga Akademik Pendukung pada Pendidikan Tinggi Kedokteran Gigi",
+        "Staf Edukasi dan Promosi Kesehatan Gigi dan Mulut",
+        "Staf Manajemen dan Administrasi Layanan Kesehatan Gigi (Rumah Sakit, Klinik, Puskesmas)",
+        "Koordinator Program Kesehatan Gigi dan Mulut (Entry-Level)",
+        "Asisten Manajemen Mutu dan Keselamatan Pasien Layanan Kedokteran Gigi",
+        "Clinical Assistant / Dental Assistant (Non-tindakan medis)",
+        "Staf Teknis dan Edukasi pada Industri Alat dan Material Kedokteran Gigi",
+        "Wirausaha Pemula di Bidang Edukasi dan Layanan Penunjang Kedokteran Gigi"
+      ]
+    }
+  ]
+}

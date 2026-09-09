@@ -1,0 +1,18 @@
+{
+  "intro": "Pembaruan terbaru, kegiatan, dan sorotan akademik dari Program Studi Sarjana Kedokteran Gigi.",
+  "allNews": {
+    "href": "/id/news",
+    "icon": "pe-7s-news-paper",
+    "label": "Lihat Semua Berita"
+  },
+  "items": [
+    {
+      "image": "https://images.unsplash.com/photo-1524178232363-1fb2b075b655?auto=format&fit=crop&w=800&q=80",
+      "date": "12 Jun 2026",
+      "title": "FKKG UNPRI Gelar MD3 Batch 2",
+      "excerpt": "Medan, 11 Juni 2026 — Fakultas Kedokteran dan Kedokteran Gigi (FKKG) Universitas Prima Indonesia (UNPRI) kembali sukses menyelenggarakan Medical Dental Discovery…",
+      "href": "/id/news",
+      "moreLabel": "Baca Selengkapnya →"
+    }
+  ]
+}

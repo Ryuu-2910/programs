@@ -1,0 +1,201 @@
+{
+  "head": {
+    "name": "drg. Cindy Denhara Wijaya, M.Biomed.",
+    "role": "Ketua Program Studi",
+    "photo": "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/1776/1776-large.JPG"
+  },
+
+  "sectionLabel": "Dosen Tetap",
+  "lecturers": [
+    {
+      "name": "drg. Tiffany Gontana",
+      "meta": "M.K.M.",
+      "initials": "TG",
+      "href": "/permanent_lecturers/618-tiffany-gontana",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/1569/1569-large.jpg",
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/2200/2200-large.jpg"
+      ]
+    },
+    {
+      "name": "drg. Susiani Tarigan",
+      "meta": "M.Kes.",
+      "initials": "ST",
+      "href": "/permanent_lecturers/91-susiani-tarigan",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/1569/1569-large.jpg"
+      ]
+    },
+    {
+      "name": "Himawan Purwo Handuto",
+      "meta": "S.KM., M.H.",
+      "initials": "HP",
+      "href": "/permanent_lecturers/380-himawan-purwo-handuto",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/897/897-large.jpg"
+      ]
+    },
+    {
+      "name": "dr. Karina Witary Ayu Siagian",
+      "meta": "M.Kes.",
+      "initials": "KW",
+      "href": "/permanent_lecturers/403-karina-witary-ayu-siagian",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/1888/1888-large.JPG"
+      ]
+    },
+    {
+      "name": "drg. Idamawati",
+      "meta": "M.Kes.",
+      "initials": "I",
+      "href": "/permanent_lecturers/387-idamawati",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/661/661-large.jpg"
+      ]
+    },
+    {
+      "name": "drg. Mellisa Sim/Sim Mei Chin",
+      "meta": "M.Kes.",
+      "initials": "MS",
+      "href": "/permanent_lecturers/389-mellisa-sim-sim-mei-chin",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/663/663-large.jpg"
+      ]
+    },
+    {
+      "name": "Dr. drg. Chandra Susanto",
+      "meta": "Sp.Perio.",
+      "initials": "CS",
+      "href": "/permanent_lecturers/386-chandra-susanto",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/1765/1765-large.jpg"
+      ]
+    },
+    {
+      "name": "drg. Mangatas H P Hutagalung",
+      "meta": "M.Kes.",
+      "initials": "MH",
+      "href": "/permanent_lecturers/92-mangatas-h-p-hutagalung",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/658/658-large.jpg"
+      ]
+    },
+    {
+      "name": "drg. Wilvia",
+      "meta": "M.Biomed.",
+      "initials": "W",
+      "href": "/permanent_lecturers/619-wilvia",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/1736/1736-large.jpg"
+      ]
+    },
+    {
+      "name": "drg. Cindy Denhara Wijaya",
+      "meta": "M.Biomed.",
+      "initials": "CD",
+      "href": "/permanent_lecturers/611-cindy-denhara-wijaya",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/1776/1776-large.JPG"
+      ]
+    },
+    {
+      "name": "drg. Christian Siuwandy Bu'ulolo",
+      "meta": "M.K.M.",
+      "initials": "CS",
+      "href": "/permanent_lecturers/610-christian-siuwandy-bu-ulolo",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/2199/2199-large.jpg"
+      ]
+    },
+    {
+      "name": "drg. Mourent Miftahullaila",
+      "meta": "Sp.Pros.",
+      "initials": "MM",
+      "href": "/permanent_lecturers/609-mourent-miftahullaila",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/1770/1770-large.jpg"
+      ]
+    },
+    {
+      "name": "drg. Dian Soraya Tanjung",
+      "meta": "Sp.KG.",
+      "initials": "DS",
+      "href": "/permanent_lecturers/612-dian-soraya-tanjung",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/2010/2010-large.jpg"
+      ]
+    },
+    {
+      "name": "drg. Member Reni Purba",
+      "meta": "Sp.KG.",
+      "initials": "MR",
+      "href": "/permanent_lecturers/613-member-reni-purba",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/1769/1769-large.jpg"
+      ]
+    },
+    {
+      "name": "drg. Novelya",
+      "meta": "M.Biomed.",
+      "initials": "N",
+      "href": "/permanent_lecturers/614-novelya",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/1937/1937-large.jpg"
+      ]
+    },
+    {
+      "name": "drg. Riza Iriani",
+      "meta": "Dosen Tetap",
+      "initials": "RI",
+      "href": "/permanent_lecturers/615-riza-iriani",
+      "photos": [
+        "https://unprimdn.ac.id/images/missing-large.jpg"
+      ]
+    },
+    {
+      "name": "drg. Shieny Lokanata",
+      "meta": "M.Biomed.",
+      "initials": "SL",
+      "href": "/permanent_lecturers/616-shieny-lokanata",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/1732/1732-large.JPG"
+      ]
+    },
+    {
+      "name": "drg. Sopan Sinamo",
+      "meta": "Sp.Pros.",
+      "initials": "SS",
+      "href": "/permanent_lecturers/617-sopan-sinamo",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/1771/1771-large.jpg"
+      ]
+    },
+    {
+      "name": "drg. Firdha Muharraran",
+      "meta": "M.K.M.",
+      "initials": "FM",
+      "href": "/permanent_lecturers/819-firdha-muharraran",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/2569/2569-large.jpeg"
+      ]
+    },
+    {
+      "name": "drg. Shirley Adriana",
+      "meta": "M.Biomed.",
+      "initials": "SA",
+      "href": "/permanent_lecturers/860-shirley-adriana",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/2446/2446-large.jpg"
+      ]
+    },
+    {
+      "name": "drg. Susanna Halim",
+      "meta": "M.Biomed., M.K.M.",
+      "initials": "SH",
+      "href": "/permanent_lecturers/870-susanna-halim",
+      "photos": [
+        "https://s3.amazonaws.com/assets.unprimdn.ac.id/images/lecturers/2447/2447-large.jpeg"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "sectionTitle": "Gambaran Umum",
+  "video": {
+    "title": "",
+    "src": "",
+    "poster": ""
+  },
+  "stats": {
+    "items": [
+      {
+        "value": "1000",
+        "suffix": "+",
+        "label": "Mahasiswa"
+      },
+      {
+        "value": "1000",
+        "suffix": "+",
+        "label": "Alumni"
+      },
+      {
+        "value": "20",
+        "suffix": "+",
+        "label": "Dosen"
+      },
+      {
+        "value": "20",
+        "suffix": "+",
+        "label": "Tenaga Kependidikan"
+      },
+      {
+        "value": "20",
+        "suffix": "",
+        "label": "Mitra Kerja Sama"
+      }
+    ]
+  },
+  "description": "Program Studi Sarjana Kedokteran Gigi merupakan awal perjalanan pendidikan menuju profesi dokter gigi masa depan. Mahasiswa membangun fondasi dalam ilmu dasar kedokteran umum, ilmu kedokteran gigi dasar, ilmu kedokteran gigi klinik, kesehatan gigi masyarakat, serta sociotechnopreneurship sebagai persiapan menuju jenjang pendidikan profesi dokter gigi.",
+  "alumniVideo": {
+    "title": "Cerita Alumni",
+    "src": "",
+    "poster": ""
+  },
+  "visi": {
+    "kicker": "Visi",
+    "text": "Menghasilkan Sarjana Kedokteran Gigi yang professional, berwawasan sociotechnopreneurhip, unggulan dalam peningkatan kualitas hidup masyarakat penyandang penyakit degeneratif melalui perawatan kesehatan gigi dan mulut."
+  },
+  "misi": {
+    "kicker": "Misi",
+    "items": [
+      "Menyelenggarakan pendidikan kedokteran gigi yang berkualitas tinggi, berbasis kompetensi dan nilai-nilai sociotechnopreneurship, untuk mencetak Dokter Gigi yang unggul dalam tatalaksana kesehatan gigi–mulut penyandang penyakit degeneratif.",
+      "Menghasilkan penelitian inovatif dan berdampak dalam bidang kesehatan gigi–mulut penyandang penyakit degeneratif yang menjadi rujukan pengembangan ilmu pengetahuan dan teknologi kedokteran gigi.",
+      "Menerapkan ilmu pengetahuan dan teknologi melalui kegiatan pengabdian masyarakat berbasis evidence-based dan sociotechnopreneurship untuk meningkatkan kualitas hidup dan memberdayakan komunitas penyandang penyakit degeneratif.",
+      "Menyelenggarakan tata kelola program studi yang transparan, akuntabel, dan efisien, serta membangun kemitraan strategis yang berkelanjutan di tingkat nasional dan internasional untuk mendukung penguatan Tridharma Perguruan Tinggi."
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "documentation": {
+    "title": "Dokumentasi Kegiatan",
+    "intro": "Kegiatan bersama mitra di lingkungan UNPRI: kuliah tamu, praktik bersama, dan kunjungan akademik."
+  },
+  "logosTitle": "Daftar Mitra",
+  "partners": [
+    {
+      "name": "Nanjing Medical University",
+      "logo": "/images/nanjing-medical-university-logo.webp",
+      "video": {
+        "src": "",
+        "caption": "Contoh keterangan.",
+      }
+    },
+    {
+      "name": "Yangtze Normal University",
+      "logo": "/images/logo_yangtze_normal_university.webp"
+    },
+    {
+      "name": "Shandong Drugs and Food Vocational College",
+      "logo": "/images/shangdong-drug-and-food-vocational-college-logo.webp"
+    },
+    {
+      "name": "Chiba Institute of Science",
+      "logo": "/images/logo_CIS.webp",
+      "logoHeight": "160px"
+    },
+    {
+      "name": "Universiti Sains Malaysia",
+      "logo": "/images/usm-logo.webp",
+      "video": {
+        "src": "",
+        "caption": "Contoh keterangan.",
+      }
+    },
+    {
+      "name": "Dinas Kesehatan Prov Sumatera Utara",
+      "logo": "/images/dinas-kesehatan-sumut-logo.jpeg",
+      "logoHeight": "90px"
+    },
+    {
+      "name": "Dinas Kesehatan Kota Medan",
+      "logo": "/images/dinas-kesehatan-medan.jpeg",
+      "logoHeight": "100px"
+    },
+    {
+      "name": "Dinas Kesehatan Kab Karo",
+      "logo": "/images/dinas-kesehatan-karo-logo.jpeg",
+      "logoHeight": "75px"
+    },
+    {
+      "name": "Dinas Kesehatan Nias Utara",
+      "logo": "/images/dinas-kesehatan-nias-utara-logo.jpeg",
+      "logoHeight": "110px"
+    },
+    {
+      "name": "Puskesmas di Kota Medan",
+      "logo": "/images/puskesmas-medan.jpeg",
+      "logoHeight": "100px"
+    },
+    {
+      "name": "RSU Royal Prima Medan",
+      "logo": "/images/rsu-royal-prima-logo.jpeg"
+    },
+    {
+      "name": "RSU Royal Prima Marelan",
+      "logo": "/images/rsu-royal-prima-logo.jpeg"
+    },
+    {
+      "name": "Rumah Sakit Mata Prima Vision",
+      "logo": "/images/prima-vision-logo.jpeg"
+    },
+    {
+      "name": "Rumah Sakit Gigi & Mulut Prima",
+      "logo": "/images/prima-sakit-gigi-dan-mulut-logo.jpeg",
+      "logoHeight": "100px"
+    },
+    {
+      "name": "RSUD Sidikalang",
+      "logo": "/images/rsud-sidikalang-logo.jpeg"
+    },
+    {
+      "name": "RSUD Kab Humbahas",
+      "logo": "/images/rsud-humbahas-logo.jpeg"
+    },
+    {
+      "name": "RSUD Tapanuli Utara",
+      "logo": "/images/rsud-tapanuli-utara-logo.jpeg"
+    },
+    {
+      "name": "Pemerintahan Kabupaten Karo",
+      "logo": "/images/dinas-kesehatan-karo-logo.jpeg"
+    },
+    {
+      "name": "Pemerintahan Kabupaten Deli Serdang",
+      "logo": "/images/kabupaten-deli-serdang-logo.jpeg",
+      "logoHeight": "95px"
+    },
+    {
+      "name": "Pemerintahan Kabupaten Nias, Kabupaten Nias Selatan, Kabupaten Nias Utara, Kabupaten Nias Barat, Kota Gunungsitoli",
+      "logo": "/images/kabupaten-nias.jpeg",
+      "logoHeight": "90px"
+    }
+  ]
+}
